@@ -1,5 +1,5 @@
 <h2 align="left">Hey! Why visit</h2>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
